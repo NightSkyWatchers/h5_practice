@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS常见选择器</title>
+
+    <style>
+        div{
+            color:red;
+        }
+
+        p{
+            color: blue;
+        }
+
+        /*类选择器*/
+        .first {
+            background-color: purple;
+        }
+        /*id 选择器*/
+        #diyi {
+            background-color: peachpuff;
+        }
+        /*并列选择器*/
+
+        div,diyi {
+            border: 15px;
+            border-bottom-color: burlywood;
+        }
+
+        /*复合选择器*/
+
+        p.first {
+            border: 5px solid yellowgreen;
+        }
+
+        div.#diyi {
+            font-size: 30px;
+        }
+
+
+        /*后代选择器*/
+        p a {
+            font-size: 40px;
+        }
+
+        .first .second {
+            color: lightblue;
+        }
+
+        /*直接后代选择器*/
+        p>a {
+
+        }
+
+
+    </style>
+</head>
+<body>
+
+    <div class="first">我是div便签</div>
+    <div id="diyi">我是div便签</div>
+    <div>我是div便签</div>
+    <div>我是div便签</div>
+    <div>我是div便签</div>
+    <div class="first">我是div便签
+        <div class="second">
+            我是class 2
+        </div>
+    </div>
+
+
+    <p class="first">p标签</p>
+    <p>p标签
+        <a href="#">我是超链接</a>
+    </p>
+    <p>p标签</p>
+    <p>p标签</p>
+</body>
+</html>

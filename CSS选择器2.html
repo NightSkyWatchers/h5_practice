@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS选择器2</title>
+    <style>
+
+        /*相邻兄弟选择器*/
+        div + p {
+            color: rebeccapurple;
+        }
+
+
+        /**/
+        p[postion] {
+            background-color: yellowgreen;
+        }
+
+        p[weight] {
+            border: 5px solid blanchedalmond;
+        }
+
+
+        p[postion="teacher"] {
+            border:  10px solid black;
+        }
+
+        /*伪类*/
+        input:focus {
+            outline: none;
+            background-color: burlywood;
+        }
+
+        div:hover {
+            background-color: yellow;
+        }
+
+        /*伪元素*/
+
+        p[postion="teacher"]:first-letter {
+            font-size: 35px;
+            color: purple;
+        }
+
+        p[postion="teacher"]:before {
+            content: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1571119025150&di=1af6065b4af85e3958e49c3bddf7473b&imgtype=0&src=http%3A%2F%2Fimg.weixingongzhonghao.com%2F20151102%2F2962%2F0cf9039b05549f48dbcf7423df9dda24.jpeg");
+        }
+
+    </style>
+</head>
+<body>
+
+    <p postion="student" height="178">div相邻的p</p>
+    <div>div里面
+
+        <p postion="teacher">div里面的p</p>
+        <span>
+
+            div里面的span
+            <p postion="student" height="189" weight="80">span里面的p</p>
+        </span>
+
+    </div>
+
+    <p>div相邻的p</p>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <input placeholder="我是输入框">
+
+
+
+    <div> 普通文本</div>
+</body>
+</html>

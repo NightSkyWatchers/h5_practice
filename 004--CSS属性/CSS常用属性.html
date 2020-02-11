@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <title>>CSS常用属性</title>
+
+
+    <style>
+        div {
+            background-color: greenyellow;
+            width: 350px;
+            height: 200px;
+            /*display: none;*/
+            /*显示属性 hidden,collapse,inherit*/
+            visibility: inherit;
+            font-family: "Abadi MT Condensed Extra Bold";
+            font-size: 40px;
+            font-weight: 100;
+
+            background: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1571119025150&di=1af6065b4af85e3958e49c3bddf7473b&imgtype=0&src=http%3A%2F%2Fimg.weixingongzhonghao.com%2F20151102%2F2962%2F0cf9039b05549f48dbcf7423df9dda24.jpeg");
+            /*background-size: cover;*/
+            /*background-size: contain;*/
+            /*background-size: auto;*/
+            /*background-size: 100%;*/
+            background-size: 100px;
+        }
+
+        p.ido{
+            background-color: orange;
+            width: 205px;
+            height: 130px;
+            /*鼠标移动上去,改变鼠标的样式*/
+            cursor: pointer;
+            text-indent: 50px;
+            /*text-indent: 10%;*/
+            /*text-indent: :hanging;*/
+            /*text-indent: each-line;*/
+            /*overflow: hidden;*/
+            /*overflow: auto;*/
+            overflow: scroll;
+            /*overflow: visible;*/
+        }
+        article {
+            width: 250px;
+        }
+    </style>
+</head>
+
+
+<body>
+    <nav>
+        导航,链接
+    </nav>
+    <header>
+        头部区域
+    </header>
+    <article>
+
+        文章内容文章内人 文章内容文章内人 文章内容文章内人
+        文章内容文章内人 文章内容文章内人 文章内容文章内人
+        文章内容文章内人 文章内容文章内人 文章内容文章内人
+        文章内容文章内人 文章内容文章内人 文章内容文章内人 文章内容文章内人
+        文章内容文章内人 文章内容文章内人
+        <br>
+        <time value="20">
+            time
+        </time>
+
+        <br>
+        <progress value="20" max="100" min="0" step="5">
+            progress
+        </progress>
+
+        <br>
+        <meter value="10010">
+            meter
+        </meter>
+    </article>
+    <footer>footer区域</footer>
+
+    <div>I am  DIV
+
+    <p>woshi  parapgraph</p>
+    </div>
+
+    <p class="ido"> I am paragraph我是段落段落我是段落段落我
+        是段落段落我是段落段落我是段落段落我是段落段落我是段落段
+        落我是段落段落我是段落段落我是段落段落我是段落段落
+        agraph我是段落段落我
+        agraph我是段落段落我
+    </p>
+</body>
+</html>

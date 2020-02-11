@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>内置对象</title>
+    <script>
+//        1.所有全局变量都是window对象的属性;
+//        2.所有全局函数都是window的方法
+
+
+        var age = 13;
+
+        alert(window.age);
+        alert(age);
+
+
+
+        function func1 () {
+            console.log(this);
+        }
+
+        function  person() {
+            console.log(this);
+        }
+
+        person();//  打印的是window
+
+        new person(); // 当前person对象
+
+
+        // 动态跳转
+
+
+        window.alert(0);
+        window.location.href = 'http://www.baidu.com';
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

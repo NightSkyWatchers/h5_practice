@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <title>标签类型</title>
+    <style>
+        div{
+            background-color: yellow;
+            /*隐藏标签*/
+            display: none;
+        }
+
+        p {
+            background-color: green;
+        }
+
+        span {
+            background-color: purple;
+            width: 100px;
+            height: 50px;
+            /*width无法生效*/
+            display: block;
+        }
+
+        a {
+            width: 200px;
+        }
+        label {
+            background-color: darkred;
+            width: 300px;
+        }
+
+        button {
+            background-color: red;
+            width: 300px;
+            height: 50px;
+        }
+
+
+        input {
+            background-color: darkgray;
+            height: 70px;
+            width: 260px;
+        }
+    </style>
+</head>
+<body>
+
+    <!--块级标签,独占一行,随时设置高度、宽度-->
+
+    <div>我是div</div>
+
+    <p>我是段落</p>
+
+
+
+    <!--行内标签 span/a/label  多个能展示在同一行,宽度、高度取决于内容尺寸 -->
+
+
+    <span>我是行内标签</span>
+    <span>我是行内标签</span>
+    <span>我是行内标签</span>
+    <span>我是行内标签</span>
+    <a href="#">我是超链接</a>
+
+    <label>我是label</label>
+
+    <br><br><br>
+
+    <!--行内块级标签 button,input  多个展示在同一行,随时设置宽、高-->
+
+
+    <button>我是button</button>
+    <input placeholder="请输入">
+
+
+    <article>
+        <p>
+            display
+            <br>1.none 隐藏
+            <br>2.block  标签变为块级标签
+            <br>3.inline  变为行内标签
+            <br> 4.inline-block  变为行内块级标签
+        </p>
+
+
+    </article>
+
+</body>
+</html>

@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body {
+    background: url("../img/bg.jpg");
+}
+
+
+#header {
+    /*float: right;*/
+    text-align: right;
+    background-color: rgba(0,0,0,0.2);
+    height: 44px;
+    line-height: 44px;
+}
+
+
+#header a {
+    color: white;
+    font-size: 13px;
+    margin-right: 10px;
+    font-weight: bolder;
+}
+
+#header a.no_weight {
+    font-weight: normal;
+}
+
+#header a.more_product {
+    /*width: 100px;*/
+    /*height: 100%;*/
+    text-decoration: none;
+    background-color: #3385ff;
+    padding: 5px;
+}
+
+#content {
+    text-align: center;
+}
+
+#content .topcontent img {
+    width: 270px;
+    height: 129px;;
+    /*margin: 0 auto;*/
+}
+
+#content .middleContent {
+    width: 600px;
+    height: 38px;
+    text-align: left;
+    margin: 0 auto 30px;
+    background-color: aqua;
+}
+
+#content .middleContent input {
+    width: 500px;
+    height: 100%;
+    outline: none;
+    box-sizing: border-box;
+
+}
+
+
+#content .middleContent input:focus {
+    padding-left: 5px;
+    outline: 1px solid #3385ff;
+
+}
+#content .middleContent a {
+    background-color: #3385ff;
+    width: 100px;
+    height: 38px;
+    line-height:38px;
+    float: right;
+    text-align: center;
+}
+
+#content .quickSearch {
+    margin: 20px 10px;
+}
+
+#content .quickSearch a img {
+    height: 90px;
+    width: 100px;
+}
+
+.quickSearch img:hover {
+    opacity: 0.5;
+}
+#footer {
+    text-align: center;
+    color: black;
+}
+
+#footer a {
+    color: #000;
+}

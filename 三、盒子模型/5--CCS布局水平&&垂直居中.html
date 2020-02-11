@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>CSS布局水平居中,垂直居中</title>
+    <style>
+        #wanke {
+            background-color: red;
+            height: 200px;
+            text-align: center;
+            line-height: 200px;
+            /*相对定位*/
+            position: relative;
+        }
+
+        span {
+            background-color: yellow;
+        }
+
+        button {
+            background-color: blue;
+         }
+
+        .xiqu {
+            background-color: greenyellow;
+            width: 200px;
+            /*margin-left: auto;*/
+            /*margin-right: auto;*/
+            margin: 0 auto;
+            height: 100px;
+            line-height: 100px;
+            /*绝对定位*/
+            position: absolute;
+            top:50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+        }
+    </style>
+</head>
+<body>
+    <h1>  水平居中--
+        行内标签 行内块级标签在父标签中设置 text-align: center;即可,
+        块级标签需要设置自己的属性margin : 0 auto
+    </h1>
+    <div id="wanke">
+
+        <span>行内标签</span>
+        <!--<div class="xiqu">块级标签</div>-->
+        <button>行内会计标签</button>
+
+        <div class="xiqu">块级标签</div>
+    </div>
+
+    <h1>  垂直居中--
+        行内标签 行内块级标签在父标签中设置 line-height == 内容高度即可,
+        块级标签需要设置自己的属性<br>
+        /*绝对定位*/<br>
+        position: absolute;<br>
+        top:50%;<br>
+        left: 50%;<br>
+        transform: translate(-50%,-50%);<br>
+    </h1>
+
+
+    <input placeholder="请输入">
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>构造函数</title>
+    <script>
+        var  Dog = function (name,age,height) {
+            this.name = name,
+            this.age = age,
+                    this.height = height;
+
+                    this.eat = function (something) {
+                console.log(this.name + 'chi'  + something);
+            },
+            this.run = function (where) {
+                console.log(this.name + 'pao' + where);
+            }
+        
+        };
+
+        var dog1 = new Dog('旺财',11,1.3);
+        var dog2 = new Dog('来福',14,1.9);
+
+
+        dog1.eat('hanbao');
+        dog2.run('dajieshang');
+    </script>
+</head>
+<body>
+
+</body>
+</html>

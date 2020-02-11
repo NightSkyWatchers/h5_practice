@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <title>脱离标准流布局</title>
+
+    <style>
+        #wanke {
+            background-color: yellow;
+            /*width: 200px;*/
+            height: 300px;
+        }
+
+        .haiyue {
+            background-color: red;
+            width: 100px;
+            float: left;
+        }
+
+        .hy {
+            background-color: green;
+            height: 50px;
+            float: right;
+        }
+
+        .hy2 {
+            background-color: blue;
+            /*width: 100px;*/
+        }
+
+    </style>
+</head>
+<body>
+
+
+
+    <!--任意一种标签脱离标准流布局后,会被强转为 行内-块级标签-->
+    <div id="wanke">
+
+        <div class="haiyue">111111111111</div>
+        <div class="hy">222222344444533</div>
+        <div class="hy2">3333333333333333</div>
+
+    </div>
+</body>
+</html>

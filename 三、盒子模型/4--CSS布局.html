@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS布局</title>
+    <style>
+        #wanke {
+            background-color: red;
+            height: 200px;
+            /*相对定位*/
+            position: relative;
+            width: 90%;
+        }
+
+        .xiqu {
+            background-color: yellow;
+            /*绝对定位*/
+            position: absolute;
+            top:20px;
+            left: 120px;
+        }
+
+        .xi {
+            background-color: blue;
+            position: fixed;
+            bottom: 0px;
+            width: 100%;
+            height: 20px;
+        }
+
+    </style>
+</head>
+<body>
+   <div id="wanke">
+            我是相对定位
+
+       <div class="xiqu"> 这是绝对定位</div>
+   </div>
+
+   <div class="xi"> 相对浏览器定位</div>
+
+</body>
+</html>
