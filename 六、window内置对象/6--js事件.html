@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>js事件</title>
+
+    <script>
+        // 当前页面加载完成
+        window.onload = function () {
+//            alert(0);
+
+            var img = document.getElementsByTagName('img')[0];
+            var input = document.getElementsByTagName('input')[0];
+
+            img.onmousemove = function () {
+                console.log('move!!');
+            }
+
+            img.onmouseover = function () {
+                console.log('move over!!!');
+            }
+
+            img.onmouseout = function () {
+                console.log('move out !!!');
+            }
+
+            input.onfocus = function () {
+                console.log('focus!!!')
+                input.style.width = '500px';
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <img src="../img/img_01.jpg">
+    <p></p>
+    <input>
+</body>
+</html>

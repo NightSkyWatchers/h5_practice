@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc9c2ef7-e26f-48d5-91eb-04cfbd8d7b7c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/六、window内置对象/2-document.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/六、window内置对象/3--document常用操作.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/六、window内置对象/4--切换图片.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/六、window内置对象/5--定时器.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/六、window内置对象/6--js事件.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="h5_practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,51 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CSS常见选择器.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSS常见选择器.html">
+      <file leaf-file-name="6--js事件.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/六、window内置对象/6--js事件.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2-document.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/六、window内置对象/2-document.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3--document常用操作.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/六、window内置对象/3--document常用操作.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4--切换图片.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/六、window内置对象/4--切换图片.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="8" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5--定时器.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/六、window内置对象/5--定时器.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -98,6 +55,7 @@
         <option value="$PROJECT_DIR$/六、window内置对象/3--document常用操作.html" />
         <option value="$PROJECT_DIR$/六、window内置对象/4--切换图片.html" />
         <option value="$PROJECT_DIR$/六、window内置对象/5--定时器.html" />
+        <option value="$PROJECT_DIR$/六、window内置对象/6--js事件.html" />
       </list>
     </option>
   </component>
@@ -210,15 +168,15 @@
       <workItem from="1581486170635" duration="260000" />
       <workItem from="1581486451974" duration="90000" />
       <workItem from="1581486640884" duration="9000" />
-      <workItem from="1581486685368" duration="10137000" />
+      <workItem from="1581486685368" duration="11706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10496000" />
+    <option name="totallyTimeSpent" value="12065000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="23" width="1241" height="777" extended-state="6" />
+    <frame x="7" y="23" width="1241" height="777" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24979855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -317,8 +275,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/六、window内置对象/5--定时器.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="266">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/六、window内置对象/6--js事件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding />
         </state>
       </provider>
