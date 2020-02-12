@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>切换图片</title>
+</head>
+<body>
+    <img name="img" src="../img/img_01.jpg">
+    <p></p>
+
+    <button id="first">上一张</button>
+    <button id="second">下一张</button>
+
+    <script>
+        
+        var img = document.getElementsByName('img')[0];
+        var preBtn = document.getElementById('first');
+        var nextBtn = document.getElementById('second');
+        var minidx = 1;
+        var maxidx = 4;
+        var currentidx = 1;
+        preBtn.onclick = function () {
+
+            if(currentidx == 1){
+                currentidx = 4;
+            }else  {
+                currentidx--;
+            }
+
+            img.src='../img/img_0'+currentidx+'.jpg';
+        }
+
+        nextBtn.onclick = function () {
+
+            if(currentidx == 4){
+                currentidx = 1;
+            }else  {
+                currentidx++;
+            }
+
+            img.src='../img/img_0'+currentidx+'.jpg';
+        }
+    </script>
+
+
+</body>
+</html>

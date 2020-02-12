@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>document常用操作</title>
+
+    <script>
+
+        function changeImg() {
+            var  img = document.getElementsByClassName('topimg')[0]
+            img.src = '../img/img_02.jpg'
+        }
+
+//        var secodImg = document.getElementsByClassName('secondImg')[0]
+//        var p   = document.getElementById('secondP')
+//        var btn = document.getElementsByTagName('button')[1]
+//
+//        console.log(btn)
+//        btn.onclick = function () {
+//            secodImg.style.display = 'none'
+//            p.style.display = 'none'
+//            btn.innerText ='显示'
+//        }
+
+
+    </script>
+</head>
+<body>
+
+    <!--1.常用操作-->
+    <img class="topimg" src="../img/img_01.jpg">
+    <!--<br>-->
+    <p></p>
+    <!--<br>-->
+    <button onclick="changeImg()">更换图片</button>
+
+    <p></p>
+
+
+    <!--2.常用操作-->
+    <img class="secondImg" src="../img/img_04.jpg">
+
+    <p id="secondP"></p>
+
+    <button>隐藏</button>
+
+
+    <script>
+
+        var secodImg = document.getElementsByClassName('secondImg')[0]
+        var p   = document.getElementById('secondP')
+        var btn = document.getElementsByTagName('button')[1]
+
+        console.log(btn)
+
+        btn.onclick = function () {
+            if(btn.innerText == '隐藏'){
+
+                secodImg.style.display = 'none'
+                p.style.display = 'none'
+                btn.innerText ='显示'
+            }else {
+                secodImg.style.display = 'block'
+                p.style.display = 'inline-block'
+                btn.innerText ='隐藏'
+            }
+
+
+        }
+    </script>
+</body>
+</html>

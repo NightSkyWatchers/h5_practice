@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>定时器</title>
+    <style>
+        body{
+            background-color: black;
+        }
+
+        img{
+            text-align: center;
+
+            display: none;
+        }
+
+        p{
+            font-size: 50px;
+            text-align: center;
+            color: red;
+            display: none;
+        }
+
+        div{
+            font-size: 150px;
+            color: yellow;
+            text-align: center;
+        }
+
+
+    </style>
+</head>
+<body>
+        <img id="img" src="https://pic4.zhimg.com/50/v2-68daf817370b5ecadca0d1b8ebe3c99d_hd.gif">
+        <p id="word">这是心动的感觉!!!</p>
+        <div id="num">5</div>
+
+        <script>
+
+            var img = document.getElementById('img');
+            var p = document.getElementById('word');
+            var num = document.getElementById('num');
+
+            var timer = setInterval(function () {
+                num.innerText -= 1;
+                if(num.innerText == 0){
+                    clearInterval(timer);
+                    img.style.display = 'block';
+                    p.style.display = 'inline-block';
+                    num.style.display = 'none';
+                }
+
+
+            },1000);
+        </script>
+
+</body>
+</html>
