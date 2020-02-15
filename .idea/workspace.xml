@@ -2,16 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc9c2ef7-e26f-48d5-91eb-04cfbd8d7b7c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/外部js/imgs/img_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/外部js/imgs/img_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/外部js/imgs/img_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/外部js/imgs/img_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/八、综合练习/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/八、综合练习/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/八、综合练习/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/外部js/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/外部js/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/外部js/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/35.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/37.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/38.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/39.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/js/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="h5_practice.iws" />
@@ -35,35 +69,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/八、综合练习/css/index.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+            <state relative-caret-position="-889">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/八、综合练习/index.html">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/八、综合练习/js/index.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc;n#getViaId#0" expanded="false" />
+                <element signature="n#!!doc;n#$#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -74,9 +106,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -97,6 +129,9 @@
         <option value="$PROJECT_DIR$/八、综合练习/css/index.css" />
         <option value="$PROJECT_DIR$/八、综合练习/index.html" />
         <option value="$PROJECT_DIR$/八、综合练习/js/index.js" />
+        <option value="$PROJECT_DIR$/九、瀑布流js、css实现/css/index.css" />
+        <option value="$PROJECT_DIR$/九、瀑布流js、css实现/index.html" />
+        <option value="$PROJECT_DIR$/九、瀑布流js、css实现/js/index.js" />
       </list>
     </option>
   </component>
@@ -107,7 +142,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
+    <option name="x" value="15" />
     <option name="y" value="23" />
     <option name="width" value="1241" />
     <option name="height" value="777" />
@@ -197,25 +232,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="八、综合练习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5_practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5_practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="004--CSS属性" />
+              <option name="myItemId" value="九、瀑布流js、css实现" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,6 +256,7 @@
       <recent name="$PROJECT_DIR$/八、综合练习" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/九、瀑布流js、css实现/imgs" />
       <recent name="$PROJECT_DIR$/外部js/imgs" />
     </key>
   </component>
@@ -294,6 +312,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cc9c2ef7-e26f-48d5-91eb-04cfbd8d7b7c" name="Default" comment="" />
@@ -304,15 +325,15 @@
       <workItem from="1581486170635" duration="260000" />
       <workItem from="1581486451974" duration="90000" />
       <workItem from="1581486640884" duration="9000" />
-      <workItem from="1581486685368" duration="21025000" />
+      <workItem from="1581486685368" duration="30270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21384000" />
+    <option name="totallyTimeSpent" value="30629000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="23" width="1241" height="777" extended-state="0" />
+    <frame x="15" y="23" width="1241" height="777" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24979855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -528,11 +549,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/八、综合练习/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc;n#getViaId#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#$#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-889">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
