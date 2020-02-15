@@ -32,19 +32,6 @@ window.onload = function () {
                     var newImg = document.createElement('img');
                     newImg.src =  'imgs/'+ datas.dataimg[i].img;
                     newpic.appendChild(newImg);
-
-                    // //创建box
-                    // var newBox = document.createElement('div');
-                    // newBox.className = 'box';
-                    // $('main').appendChild(newBox);
-                    // //创建pic
-                    // var newPic = document.createElement('div');
-                    // newPic.className = 'pic';
-                    // newBox.appendChild(newPic);
-                    // //创建img
-                    // var newImg = document.createElement('img');
-                    // newImg.src = 'imgs/'+datas.dataimg[i].img;
-                    // newPic.appendChild(newImg);
                 }
 
             waterFall('main','box');
