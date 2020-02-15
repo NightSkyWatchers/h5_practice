@@ -13,27 +13,38 @@ window.onload = function () {
 
     waterFall('main','box');
 
-    window.doScroll = function () {
-        console.log('scroll');
+    window.onscroll = function () {
         if (checkLoadMore()){
-            var datas = {dataimg:[{'img':'38.jpg'},{'img':'15.jpg'},
+            var datas = {'dataimg':[{'img':'1.jpg'},{'img':'1.jpg'},
                 {'img':'18.jpg'},{'img':'16.jpg'},
                 {'img':'17.jpg'},{'img':'19.jpg'},
                 {'img':'20.jpg'},{'img':'22.jpg'}]};
 
-                for (var i in datas.dataimg) {
-                    var box = document.createElement('div');
-                    box.className = 'box';
+                for (var i = 0 ; i < datas.dataimg.length;i++) {
+                    var newbox = document.createElement('div');
+                    newbox.className = 'box';
+                    $('main').appendChild(newbox);
 
-                    var pic = document.createElement('div');
-                    pic.className = 'pic';
+                    var newpic = document.createElement('div');
+                    newpic.className = 'pic';
+                    newbox.appendChild(newpic);
 
-                    var img = document.createElement('img');
-                    img.scr = 'imgs/'+datas.data[i].img;
+                    var newImg = document.createElement('img');
+                    newImg.src =  'imgs/'+ datas.dataimg[i].img;
+                    newpic.appendChild(newImg);
 
-                    pic.appendChild(img);
-                    box.appendChild(pic);
-                    $('main').appendChild(box);
+                    // //创建box
+                    // var newBox = document.createElement('div');
+                    // newBox.className = 'box';
+                    // $('main').appendChild(newBox);
+                    // //创建pic
+                    // var newPic = document.createElement('div');
+                    // newPic.className = 'pic';
+                    // newBox.appendChild(newPic);
+                    // //创建img
+                    // var newImg = document.createElement('img');
+                    // newImg.src = 'imgs/'+datas.dataimg[i].img;
+                    // newPic.appendChild(newImg);
                 }
 
             waterFall('main','box');
@@ -46,14 +57,14 @@ function checkLoadMore() {
     var allbox = $('main').getElementsByClassName('box');
 
     var lastBox = allbox[allbox.length-1];
-
+    // 获取最后一个box的头部偏移量
     var lastBoxTop = lastBox.offsetTop;
-
+    // 获取浏览器的高度 标注模式 / 混杂模式
     var screenH = document.body.offsetHeight  || document.documentElement.clientHeight;
-
+    // 获取页面的偏移量高度
     var scrollTopH = document.body.scrollTop;
 
-
+    console.log(lastBoxTop,screenH,scrollTopH);
     return lastBoxTop <= screenH + scrollTopH;
 }
 
@@ -78,7 +89,7 @@ function waterFall(parent,box) {
     var  heightArr = [];
 
 
-    for (var i in allBox) {
+    for (var i=0; i<allBox.length;i++) {
         // 储存第一行的高度
         if (i < colum) {
             heightArr.push(allBox[i].offsetHeight);
@@ -90,9 +101,9 @@ function waterFall(parent,box) {
             // console.log(heightArr);
             // console.log(minIdx+'----'+ min);
 
-
             // 布局当前box的
             allBox[i].style.position = 'absolute';// 绝对布局
+
             allBox[i].style.left = boxWidth * minIdx + 'px';
             allBox[i].style.top = min + 'px';
             // console.log(boxWidth*minIdx+'px');
@@ -103,9 +114,7 @@ function waterFall(parent,box) {
             heightArr[minIdx] += allBox[i].offsetHeight;
 
         }
-
     }
-
 }
 
 

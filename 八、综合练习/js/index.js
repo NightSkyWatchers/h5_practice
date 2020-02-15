@@ -23,12 +23,38 @@ window.onload = function () {
 
     //因为for in 方法不理想,所以使用以下方法遍历
 
-    for (var i=0; i < lis.length; i++) {
+    // for (var i=0; i < lis.length; i++) {
+    //
+    //     var li = lis[i];
+    //
+    //     //  为每一个对象li绑定一个id,后面会用到
+    //     li.id=i;
+    //
+    //     li.onmouseover = function () {
+    //         for (var j=0 ; j<lis.length ; j++){
+    //             lis[j].className = '';
+    //             content[j].style.display = 'none';
+    //         }
+    //          console.log(i);
+    //
+    //         // lis[li.id].className = 'selected';
+    //         // content[li.id].style.display = 'block';
+    //
+    //         // 设置当前对象this的id值对应classname
+    //         lis[this.id].className = 'selected';
+    //         content[this.id].style.display = 'block';
+    //     }
+    //
+    // }
+
+
+
+    for (let i=0; i < lis.length; i++) {
 
         var li = lis[i];
 
         //  为每一个对象li绑定一个id,后面会用到
-        li.id=i;
+        // li.id=i;
 
         li.onmouseover = function () {
             for (var j=0 ; j<lis.length ; j++){
@@ -36,13 +62,13 @@ window.onload = function () {
                 content[j].style.display = 'none';
             }
 
-
+            console.log(i);
             // lis[li.id].className = 'selected';
             // content[li.id].style.display = 'block';
 
             // 设置当前对象this的id值对应classname
-            lis[this.id].className = 'selected';
-            content[this.id].style.display = 'block';
+            lis[i].className = 'selected';
+            content[i].style.display = 'block';
         }
 
     }
