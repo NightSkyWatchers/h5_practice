@@ -8,7 +8,7 @@
     /*!*-webkit-column-width: 202px;*!*/
     /*column-width: 202px;*/
     /*-moz-column-width: 202px;*/
-
+    position: relative;
 }
 .box {
     /*background-color: red;*/

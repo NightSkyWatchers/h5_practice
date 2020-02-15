@@ -2,51 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc9c2ef7-e26f-48d5-91eb-04cfbd8d7b7c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/imgs/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/十、认识jQuery/imgs/0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/十、认识jQuery/imgs/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/十、认识jQuery/imgs/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/十、认识jQuery/imgs/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/十、认识jQuery/imgs/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/十、认识jQuery/imgs/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/十、认识jQuery/imgs/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/十、认识jQuery/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/十、认识jQuery/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/九、瀑布流js、css实现/css/index.css" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/九、瀑布流js、css实现/js/index.js" afterPath="$PROJECT_DIR$/九、瀑布流js、css实现/js/index.js" />
     </list>
     <ignored path="h5_practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,34 +36,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/index.html">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-889">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="210">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <element signature="n#!!doc;n#$#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/十、认识jQuery/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1560">
+              <caret line="104" column="10" selection-start-line="104" selection-start-column="10" selection-end-line="104" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/css/index.css">
+        <entry file="file://$PROJECT_DIR$/十、认识jQuery/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc;n#$#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -106,9 +73,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -129,9 +96,11 @@
         <option value="$PROJECT_DIR$/八、综合练习/css/index.css" />
         <option value="$PROJECT_DIR$/八、综合练习/index.html" />
         <option value="$PROJECT_DIR$/八、综合练习/js/index.js" />
-        <option value="$PROJECT_DIR$/九、瀑布流js、css实现/css/index.css" />
         <option value="$PROJECT_DIR$/九、瀑布流js、css实现/index.html" />
+        <option value="$PROJECT_DIR$/九、瀑布流js、css实现/css/index.css" />
         <option value="$PROJECT_DIR$/九、瀑布流js、css实现/js/index.js" />
+        <option value="$PROJECT_DIR$/十、认识jQuery/css/index.css" />
+        <option value="$PROJECT_DIR$/十、认识jQuery/index.html" />
       </list>
     </option>
   </component>
@@ -142,9 +111,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="15" />
+    <option name="x" value="309" />
     <option name="y" value="23" />
-    <option name="width" value="1241" />
+    <option name="width" value="1238" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -200,7 +169,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="八、综合练习" />
+              <option name="myItemId" value="十、认识jQuery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -214,7 +183,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="八、综合练习" />
+              <option name="myItemId" value="十、认识jQuery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -232,7 +201,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="九、瀑布流js、css实现" />
+              <option name="myItemId" value="十、认识jQuery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -244,7 +217,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/coinsuper-wap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A技能进阶/iOS移动Web开发/20170315-第七次课-jQuery/007--瀑布流/代码/01--使用JS实现瀑布流布局" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -256,6 +229,7 @@
       <recent name="$PROJECT_DIR$/八、综合练习" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/十、认识jQuery/imgs" />
       <recent name="$PROJECT_DIR$/九、瀑布流js、css实现/imgs" />
       <recent name="$PROJECT_DIR$/外部js/imgs" />
     </key>
@@ -325,18 +299,18 @@
       <workItem from="1581486170635" duration="260000" />
       <workItem from="1581486451974" duration="90000" />
       <workItem from="1581486640884" duration="9000" />
-      <workItem from="1581486685368" duration="30270000" />
+      <workItem from="1581486685368" duration="35128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30629000" />
+    <option name="totallyTimeSpent" value="35487000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="15" y="23" width="1241" height="777" extended-state="1" />
+    <frame x="309" y="23" width="1238" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24979855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23344104" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -436,16 +410,6 @@
         <state relative-caret-position="270">
           <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/外部js/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#46#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -557,28 +521,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/css/index.css">
+    <entry file="file://$PROJECT_DIR$/../A技能进阶/iOS移动Web开发/20170315-第七次课-jQuery/007--瀑布流/代码/01--使用JS实现瀑布流布局/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/js/index.js">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="232">
+          <caret line="1094" column="27" selection-start-line="1094" selection-start-column="17" selection-end-line="1094" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/外部js/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding>
-            <element signature="n#!!doc;n#$#0" expanded="false" />
+            <element signature="e#0#46#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-889">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十、认识jQuery/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/九、瀑布流js、css实现/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!doc;n#$#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/十、认识jQuery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="104" column="10" selection-start-line="104" selection-start-column="10" selection-end-line="104" selection-end-column="10" />
           <folding />
         </state>
       </provider>

@@ -12,8 +12,9 @@ function $(id) {
 window.onload = function () {
 
     waterFall('main','box');
-    window.onscroll = function () {
-        
+
+    window.doScroll = function () {
+        console.log('scroll');
         if (checkLoadMore()){
             var datas = {dataimg:[{'img':'38.jpg'},{'img':'15.jpg'},
                 {'img':'18.jpg'},{'img':'16.jpg'},
