@@ -19,9 +19,11 @@ window.onload = function () {
     if(lis.length != content.length) return;
 
 
-    // console.log(lis);
+    //var 定义的对象作用域被函数分开
+    //let 定义的对象作用域被{}分开
+    // var所定义的对象在for循环中 地址不变
 
-    //因为for in 方法不理想,所以使用以下方法遍历
+    //1. 因为for in 方法不理想,所以使用以下方法遍历
 
     for (var i=0; i < lis.length; i++) {
 
@@ -48,7 +50,7 @@ window.onload = function () {
     }
 
 
-
+    //  2.let 新出的语法
     // for (let i=0; i < lis.length; i++) {
     //
     //     var li = lis[i];
