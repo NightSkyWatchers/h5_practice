@@ -49,7 +49,7 @@ function checkLoadMore() {
     // 获取浏览器的高度 标注模式 / 混杂模式
     var screenH = document.body.offsetHeight  || document.documentElement.clientHeight;
     // 获取页面的偏移量高度
-    var scrollTopH = document.body.scrollTop;
+    var scrollTopH = document.body.scrollTop || document.documentElement.scrollTop || window.pageY;
 
     console.log(lastBoxTop,screenH,scrollTopH);
     return lastBoxTop <= screenH + scrollTopH;
